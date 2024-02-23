@@ -1,2 +1,2 @@
 # dsr-kb
-Design Science Research Knowledge Base
+This is the public repository for the Design Science Research Knowledge Base (DSR-KB) domain reference ontology.
